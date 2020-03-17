@@ -1,3 +1,11 @@
+# Repo-specific ignore
+/data
+/__*
+data.zip
+/plagiarism_data
+
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
